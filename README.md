@@ -21,7 +21,7 @@
   
 |제목|내용|설명|
 |------|---|---|
-|스타트업 프로젝트|PTON|헬스장 트레이너와 회원의 운동 경험 공유 플랫폼|
+|스타트업 프로젝트|[PTON](https://github.com/leegyoungmin/PTon_ios)|헬스장 트레이너와 회원의 운동 경험 공유 플랫폼|
 </div>
   
 <p align="center">
