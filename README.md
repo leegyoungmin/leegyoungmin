@@ -24,9 +24,20 @@
 |스타트업 프로젝트|[PTON](https://github.com/leegyoungmin/PTon_ios)|헬스장 트레이너와 회원의 운동 경험 공유 플랫폼|
 |개인 프로젝트|[심플한하루](https://github.com/leegyoungmin/WhatsPlan)|심플 ToDo 리스트|
 </div>
-  
+
+<h3 align="center">🚀 ME 🚀 </h3>
+<p align="center">
+<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cow970814"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leegyoungmin&show_icons=true&theme=dark" />
+</a>
+</p>
+
+
+
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleegyoungmin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=cow970814"/>
-
 </p>
