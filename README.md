@@ -19,9 +19,10 @@
 
 <div align="center" style="text-align:center">
   
-|제목|내용|설명|
+|구분|이름|설명|
 |------|---|---|
 |스타트업 프로젝트|[PTON](https://github.com/leegyoungmin/PTon_ios)|헬스장 트레이너와 회원의 운동 경험 공유 플랫폼|
+|개인 프로젝트|[심플한하루](https://github.com/leegyoungmin/WhatsPlan)|심플 투두 리스트|
 </div>
   
 <p align="center">
