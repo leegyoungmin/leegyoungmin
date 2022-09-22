@@ -19,10 +19,15 @@
 </p>
 
 <h3 align="leading">💻 Project 💻 </h3>
+
+<div align="leading" style="text-align:center">
+
 |구분|이름|설명|
 |:---:|:---:|:---:|
 |스타트업 프로젝트|[PTON](https://github.com/leegyoungmin/PTon_ios)|헬스장 트레이너와 회원의 운동 경험 공유 플랫폼|
 |개인 프로젝트|[심플한하루](https://github.com/leegyoungmin/WhatsPlan)|심플 ToDo 리스트|
+
+</div>
 
 <h3 align="leading">🚀 ME 🚀 </h3>
 <p align="leading">
