@@ -1,14 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&height=200&section=header&text=WELCOME&font-size=80&fontColor=FFFFFF&animate=blink" />
 
 <p align="leading">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleegyoungmin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleegyoungmin%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
 </p>
 
 <h3 align="leading">🛠 Tech Stack 🛠</h3>
 
 <p align="leading"> Techs that I've used at least once </p>
 
-<p>
+<p align="leading">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
@@ -18,14 +19,10 @@
 </p>
 
 <h3 align="leading">💻 Project 💻 </h3>
-
-<div align="center" style="text-align:center">
-  
 |구분|이름|설명|
 |:---:|:---:|:---:|
 |스타트업 프로젝트|[PTON](https://github.com/leegyoungmin/PTon_ios)|헬스장 트레이너와 회원의 운동 경험 공유 플랫폼|
 |개인 프로젝트|[심플한하루](https://github.com/leegyoungmin/WhatsPlan)|심플 ToDo 리스트|
-</div>
 
 <h3 align="leading">🚀 ME 🚀 </h3>
 <p align="leading">
@@ -34,4 +31,3 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&height=200&section=footer" />
-
