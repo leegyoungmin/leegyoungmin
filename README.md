@@ -24,6 +24,7 @@
 
 |구분|이름|설명|
 |:---:|:---:|:---:|
+|개인 프로젝트|[MODA](https://github.com/leegyoungmin/MODA)|오전에 작성하는 일기|
 |개인 프로젝트|[Sorting](https://github.com/leegyoungmin/ProjectManager)|프로젝트 내 할일을 관리할 수 있는 앱|
 |개인 프로젝트|[OpenMarket](https://github.com/leegyoungmin/OpenMarket/tree/feature/SwiftUI)|중고 장터 앱|
 
