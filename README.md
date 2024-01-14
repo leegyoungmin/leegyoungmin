@@ -1,16 +1,12 @@
 <a href="https://devmin97.tistory.com/">
   <img src="https://img.shields.io/badge/Blog-CE3DF3?style=for-the-badge&logo=tistory"/>
 </a>
-
 <a href="mailto:cow970814@kakao.com">
   <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.gyoungmin.blog/">
   <img src="https://img.shields.io/badge/Portpolio-FFFFFF?style=for-the-badge"/>
 </a>
-
-<br/>
 
 ### Introduce
 
